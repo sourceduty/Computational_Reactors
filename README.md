@@ -26,4 +26,4 @@ The framework scores 6/10 for parsimony, balancing its broad scope with a single
 
 [Computational Reactor](https://chatgpt.com/g/g-vGp8ODaIO-computational-reactor)
 <br>
-[Framwork Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
+[Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
