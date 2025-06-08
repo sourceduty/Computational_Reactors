@@ -43,6 +43,7 @@ The hardware requirements for these compact CRs reflect their specialized functi
 <br>
 
 ![Comp Reactor Diver](https://github.com/user-attachments/assets/a5762fb5-10b5-4024-b940-93c169a6e92e)
+![007](https://github.com/user-attachments/assets/ed2f259f-28dd-4711-88f0-ad9fd71db1e2)
 
 #
 
