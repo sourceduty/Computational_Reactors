@@ -1,0 +1,61 @@
+Sourceduty Optimization Engines for Computational Reactor Science
+
+1. LogicOpt Engine
+   - Use: Solves logical constraints and binary/multi-valued logic spaces
+   - Frameworks: Optimation Theorem, Truthvar, OptRef
+   - Purpose: Model and enforce reactor control logic, configuration rules, and interlock conditions in a symbolic logic framework
+
+2. ToleranceSolver Engine
+   - Use: Minimizes under soft tolerances and constraint fuzziness
+   - Frameworks: TolSum, OptRef
+   - Purpose: Manage reactor parameter uncertainties (temperature, pressure, flow rate) and enforce flexible constraints under noisy inputs
+
+3. SignalPath Optimizer
+   - Use: Optimizes signal transmission or control energy
+   - Frameworks: Signal Optimate, Contripot, ImpactQ
+   - Purpose: Improve efficiency and accuracy of sensor and control signal pathways in physical or simulated reactor systems
+
+4. DronePath Engine
+   - Use: Plans least-energy path for autonomous vehicles or maintenance bots
+   - Frameworks: Navisol, OptRef, ImpactQ, TolSum
+   - Purpose: Assist in maintenance routing or robotic navigation within nuclear or thermal reactors with minimal energy expenditure
+
+5. BiasBalanced Optimizer
+   - Use: Fair optimization across conflicting or modular domains
+   - Frameworks: Modbias, Truthvar, Passaffect
+   - Purpose: Ensure fairness in multi-criteria decisions, such as shared coolant distribution or modular control subdomains
+
+6. Impact-Aware Allocator
+   - Use: Prioritizes impactful variables in resource allocation
+   - Frameworks: ImpactQ, Joint Driver, Passaffect
+   - Purpose: Allocate key control and safety resources (fuel, coolant, power) based on critical variable influence rankings
+
+7. GrowthTune Engine
+   - Use: Optimizes exponential-quadratic growth paths
+   - Frameworks: Quadexpo, AdaptDif, OptRef
+   - Purpose: Model and optimize growth processes such as neutron flux or heat propagation under nonlinear system dynamics
+
+8. ForecastRefiner
+   - Use: Improves prediction accuracy under constraint evolution
+   - Frameworks: Quadexpo, ImpactQ, Truthvar
+   - Purpose: Enhance reactor output forecasting (power, decay heat, fuel burnup) under evolving operational constraints
+
+9. RealTimeOpt Engine
+   - Use: Optimizes dynamic systems in live feedback loops
+   - Frameworks: RetExtra, SwitchV, Joint Driver
+   - Purpose: Enable real-time optimization for reactor control loops by adapting to live sensor input and system states
+
+10. DualState Navigator
+    - Use: Optimizes between alternate system states (e.g., energy vs. speed)
+    - Frameworks: SwitchV, Linear Matrix Signal, OptRef
+    - Purpose: Balance between competing operational modes such as rapid response vs. long-term efficiency in reactor subsystems
+
+11. UniTask Engine
+    - Use: Targeted single-objective optimization
+    - Frameworks: Universal Organization, OptRef, Truthvar
+    - Purpose: Solve isolated optimization tasks, such as fine-tuning core temperature control or calibrating a single subsystem
+
+12. MultiOpt Engine
+    - Use: Parallel multi-objective optimization with adaptive coordination
+    - Frameworks: Universal Organization, Joint Driver, ImpactQ
+    - Purpose: Manage and optimize multiple interacting reactor systems concurrently, coordinating performance, safety, and cost
