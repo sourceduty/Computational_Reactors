@@ -1,0 +1,136 @@
+Portable and Compact Computational Reactors (CRs) with Specs
+
+-----------------------------------------------------------------------------------------------
+
+1. Computational Microreactor Model (CMM)
+   - Purpose: Simulates small-scale reactors, chemical or biological
+   - Features: High-resolution modeling, modular setup
+   - Portability: High (modular case)
+   - Power Consumption: ~10W
+   - Dimensions: 8x8x4 inches (20x20x10 cm)
+   - Estimated Cost: $500-$1,000 USD / $670-$1,340 CAD
+   - Hardware Requirements:
+     - Processor: Dual-core ARM Cortex-A53 or better
+     - Memory: 2GB RAM
+     - Storage: 32GB SSD
+     - Sensors: Temperature, pressure, and pH sensors
+     - Power Supply: 12V DC adapter
+   - Recommended Products:
+     - NVIDIA Jetson Nano
+     - BeagleBone AI
+     - Odroid N2+
+
+2. Computational Environmental Reactor (CER)
+   - Purpose: Environmental data analysis and simulation
+   - Features: Solar-powered option, weatherproof casing
+   - Portability: Medium-High
+   - Power Consumption: 15W
+   - Dimensions: 12x8x4 inches (30x20x10 cm)
+   - Estimated Cost: $750-$1,500 USD / $1,000-$2,000 CAD
+   - Hardware Requirements:
+     - Processor: Quad-core ARM Cortex-A72
+     - Memory: 4GB RAM
+     - Storage: 64GB SSD
+     - Connectivity: Cellular, LoRaWAN
+     - Power Supply: Solar panel or 12V DC
+   - Recommended Products:
+     - Raspberry Pi 4 with PiJuice Solar
+     - Particle Boron
+     - Seeed Studio BeagleBone Green Gateway
+
+3. Computational Hydrogen Reactor (CHR)
+   - Purpose: Models hydrogen production and storage systems
+   - Features: High efficiency for portable hydrogen projects
+   - Portability: Medium (lightweight design)
+   - Power Consumption: ~25W
+   - Dimensions: 16x12x8 inches (40x30x20 cm)
+   - Estimated Cost: $1,200-$2,500 USD / $1,600-$3,350 CAD
+   - Hardware Requirements:
+     - Processor: Hexa-core ARM Cortex-A76
+     - Memory: 8GB RAM
+     - Storage: 128GB SSD
+     - Sensors: Hydrogen flow, pressure, temperature
+     - Power Supply: 19V DC adapter
+   - Recommended Products:
+     - ASUS Tinker Board 2
+     - Banana Pi M5
+     - NVIDIA Xavier NX
+
+4. Computational Rocket Chemical Reactor (CRCR)
+   - Purpose: Small-scale propulsion system simulations
+   - Features: High-speed calculations, rugged design
+   - Portability: Medium
+   - Power Consumption: 30-50W
+   - Dimensions: 14x10x6 inches (35x25x15 cm)
+   - Estimated Cost: $1,500-$3,000 USD / $2,000-$4,000 CAD
+   - Hardware Requirements:
+     - Processor: Octa-core ARM Cortex-A78
+     - GPU: Integrated Mali G78 or similar
+     - Memory: 16GB RAM
+     - Storage: 256GB SSD
+     - Sensors: Thrust, heat flux, fuel flow
+   - Recommended Products:
+     - NVIDIA Jetson AGX Orin
+     - Qualcomm Robotics RB5 Platform
+     - Intel NUC 11 Pro
+
+5. Computational Autonomous Vehicle Reactor (CAVR)
+   - Purpose: On-board AI and simulation for autonomous systems
+   - Features: GPU-accelerated, real-time simulations
+   - Portability: Medium (compact AI chip integrations)
+   - Power Consumption: 50-100W
+   - Dimensions: 18x12x8 inches (45x30x20 cm)
+   - Estimated Cost: $2,000-$4,500 USD / $2,700-$6,000 CAD
+   - Hardware Requirements:
+     - Processor: Octa-core ARM Cortex-X1
+     - GPU: NVIDIA Ampere Architecture or similar
+     - Memory: 16GB RAM
+     - Storage: 512GB NVMe SSD
+     - Sensors: LIDAR, GPS, IMU
+   - Recommended Products:
+     - NVIDIA Jetson AGX Orin
+     - Qualcomm Snapdragon Ride
+     - Intel UP Xtreme i11 Edge
+
+6. Computational Deep Learning Reactor (CDLR)
+   - Purpose: Portable AI/ML simulations and training
+   - Features: Tensor processing support, thermal management
+   - Portability: Medium
+   - Power Consumption: 75-150W
+   - Dimensions: 20x14x10 inches (50x35x25 cm)
+   - Estimated Cost: $3,000-$6,000 USD / $4,000-$8,000 CAD
+   - Hardware Requirements:
+     - Processor: 16-core ARM Cortex-X2
+     - GPU: NVIDIA Tensor Core GPU or similar
+     - Memory: 32GB RAM
+     - Storage: 1TB NVMe SSD
+     - Power Supply: 24V DC
+   - Recommended Products:
+     - NVIDIA DGX Station A100
+     - Lambda TensorBook
+     - ASUS ROG Flow Z13
+
+7. Computational Smart Grid Reactor (CSGR)
+   - Purpose: Portable energy system simulations and modeling
+   - Features: Solar-ready, advanced diagnostics
+   - Portability: Medium
+   - Power Consumption: 25-50W
+   - Dimensions: 16x12x8 inches (40x30x20 cm)
+   - Estimated Cost: $1,800-$3,500 USD / $2,400-$4,700 CAD
+   - Hardware Requirements:
+     - Processor: 8-core ARM Cortex-A78
+     - Memory: 8GB RAM
+     - Storage: 512GB SSD
+     - Connectivity: Cellular, Zigbee, and LoRa
+     - Sensors: Voltage, current, temperature
+     - Power Supply: Solar panel or 12V DC adapter
+   - Recommended Products:
+     - Raspberry Pi Compute Module 4 with IO Board
+     - BeagleBone AI-64
+     - Arduino MKR WiFi 1010
+
+-----------------------------------------------------------------------------------------------
+
+Portable and compact computational reactors (CRs) are innovative devices designed to perform specialized simulations and computational tasks across various scientific, engineering, and industrial domains. These CRs are compact enough to be deployed in mobile environments and are tailored to address specific applications, such as microcontroller emulation, environmental analysis, and autonomous system simulations. Each reactor integrates advanced hardware and software configurations, ensuring optimal performance while maintaining energy efficiency. For instance, the Computational Microcontroller Reactor (CMCR) is engineered for low-power tasks and real-time processing in edge devices, while the Computational Hydrogen Reactor (CHR) provides high-precision models for hydrogen production and storage technologies. These CRs are characterized by their modular designs, enabling flexibility and adaptability to diverse operational needs.
+
+The hardware requirements for these compact CRs reflect their specialized functionalities. Equipped with high-performance microprocessors, GPU accelerators, tensor processing units, and robust storage solutions, they deliver powerful computational capabilities within small form factors. Many models, such as the Computational Deep Learning Reactor (CDLR), are designed with thermal management systems to support AI and machine learning simulations, while others, like the Computational Environmental Reactor (CER), include weatherproof casings and solar-ready features for outdoor deployment. These devices are cost-effective and energy-efficient, consuming as little as 1-5 watts for lightweight tasks or scaling up to 150 watts for intensive AI computations. Their versatility makes them essential tools for researchers, engineers, and developers who require reliable, portable solutions for simulation and analysis without compromising performance.
