@@ -26,6 +26,14 @@ The framework scores 6/10 for parsimony, balancing its broad scope with a single
 
 #
 
+![Experiment](https://github.com/user-attachments/assets/f2a7cc00-64eb-4657-a027-f00278b551b3)
+
+Creating simple physical computational reactors at home using store-bought parts offers an exciting and educational way to explore the principles of nuclear reactor physics. These projects, while not involving actual nuclear reactions, simulate key aspects of reactor operation such as heat transfer, neutron diffusion, radiation detection, and reactor control. By using common materials like copper tubing, ball bearings, microcontrollers, and even items as simple as dominoes, enthusiasts can model the behavior of reactor systems in a safe and accessible environment. These models help to visualize and understand the complex dynamics of real reactors, offering a hands-on approach to learning about heat exchange, neutron scattering, and the importance of control mechanisms in maintaining reactor stability.
+
+These homemade reactor models not only serve as excellent educational tools but also inspire curiosity and innovation among hobbyists, students, and educators. Projects range from thermal reactor models that simulate heat transfer using water pumps and heaters, to digital simulations that use microcontrollers to mimic reactor behavior and control systems. By building these models, individuals can grasp fundamental concepts such as chain reactions, electromagnetic induction, and fluid dynamics, all critical to the operation of actual reactors. These simplified reactors thus provide a tangible way to explore nuclear science, fostering a deeper appreciation for the technology that powers much of the modern world, while ensuring safety and understanding in a controlled setting.
+
+#
+
 [Computational Reactor](https://chatgpt.com/g/g-vGp8ODaIO-computational-reactor)
 <br>
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
