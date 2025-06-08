@@ -42,11 +42,11 @@ The hardware requirements for these compact CRs reflect their specialized functi
 
 <br>
 
-![Comp Reactor Diver](https://github.com/user-attachments/assets/a5762fb5-10b5-4024-b940-93c169a6e92e)
+![007](https://github.com/user-attachments/assets/ed2f259f-28dd-4711-88f0-ad9fd71db1e2)
 
 #
 
-![007](https://github.com/user-attachments/assets/ed2f259f-28dd-4711-88f0-ad9fd71db1e2)
+![Comp Reactor Diver](https://github.com/user-attachments/assets/a5762fb5-10b5-4024-b940-93c169a6e92e)
 
 Sourceduty [math functions](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math) provide a versatile and powerful foundation for solving the complex optimization and control challenges inherent in Computational Reactor Science. At their core, these functions are designed to model logical, physical, and dynamic systems with a level of precision and adaptability that aligns closely with reactor operations. Frameworks like Optimation Theorem, Truthvar, and OptRef offer advanced logic and constraint-solving capabilities, enabling engineers to encode reactor control logic, safety rules, and operational limits into symbolic models that can be optimized for consistency, stability, and efficiency. For instance, critical interlocks and safeguard conditions within a reactor can be managed using logical state variables, which Sourceduty engines such as the LogicOpt Engine can resolve and optimize within high-dimensional decision spaces. This is especially useful in designing automated shutdown mechanisms or reactivity feedback loops where the relationship between variables like neutron flux and control rod positions must be tightly governed by formal logic systems.
 
