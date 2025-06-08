@@ -40,6 +40,10 @@ Portable and compact computational reactors (CRs) are innovative devices designe
 
 The hardware requirements for these compact CRs reflect their specialized functionalities. Equipped with high-performance microprocessors, GPU accelerators, tensor processing units, and robust storage solutions, they deliver powerful computational capabilities within small form factors. Many models, such as the Computational Deep Learning Reactor (CDLR), are designed with thermal management systems to support AI and machine learning simulations, while others, like the Computational Environmental Reactor (CER), include weatherproof casings and solar-ready features for outdoor deployment. These devices are cost-effective and energy-efficient, consuming as little as 1-5 watts for lightweight tasks or scaling up to 150 watts for intensive AI computations. Their versatility makes them essential tools for researchers, engineers, and developers who require reliable, portable solutions for simulation and analysis without compromising performance.
 
+<br>
+
+![Comp Reactor Diver](https://github.com/user-attachments/assets/a5762fb5-10b5-4024-b940-93c169a6e92e)
+
 #
 
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
