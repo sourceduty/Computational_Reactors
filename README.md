@@ -41,3 +41,5 @@ The hardware requirements for these compact CRs reflect their specialized functi
 #
 
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
+<br>
+[Math Tools](https://github.com/sourceduty/Math_Tools)
