@@ -10,7 +10,7 @@ The framework of computational reactors integrates knowledge from disciplines li
 ![CR](https://github.com/user-attachments/assets/77b17254-4a85-496c-b7a6-aaad0285bb83)
 #
 
-Nuclear simulations and computational reactor models share similarities in their approach but diverge in focus, purpose, and complexity of variants. Nuclear simulations often prioritize the study of atomic-scale phenomena such as nuclear fission, fusion, radioactive decay, and neutron transport within specific reactor cores. These simulations rely on highly detailed physics-based models, including Monte Carlo methods or deterministic solutions of neutron transport equations, to understand and predict the behavior of nuclear materials under varying conditions. Variants in nuclear simulations typically arise from changes in material properties, isotopic compositions, neutron flux distributions, or reactor geometries, making them inherently sensitive to fine-scale parameter adjustments.
+Nuclear simulations and [Computational Reactor](https://chatgpt.com/g/g-vGp8ODaIO-computational-reactor) models share similarities in their approach but diverge in focus, purpose, and complexity of variants. Nuclear simulations often prioritize the study of atomic-scale phenomena such as nuclear fission, fusion, radioactive decay, and neutron transport within specific reactor cores. These simulations rely on highly detailed physics-based models, including Monte Carlo methods or deterministic solutions of neutron transport equations, to understand and predict the behavior of nuclear materials under varying conditions. Variants in nuclear simulations typically arise from changes in material properties, isotopic compositions, neutron flux distributions, or reactor geometries, making them inherently sensitive to fine-scale parameter adjustments.
 
 Conversely, computational reactor models are broader in scope, often incorporating a wide array of chemical and physical processes beyond nuclear phenomena. These models are designed to simulate the entire reactor system, encompassing heat transfer, fluid dynamics, material interactions, and reaction kinetics. The range of variants in computational reactor simulations is typically more extensive because they must account for diverse operational scenarios, external perturbations, and varying reactor designs. For instance, a computational reactor model might need to simulate the interplay between catalytic reactions, mass transport, and thermal feedback across different reactor configurations or fuel types. This multi-physics integration leads to a higher diversity of potential variants compared to nuclear simulations focused on core-specific behaviors.
 
@@ -34,6 +34,4 @@ These homemade reactor models not only serve as excellent educational tools but 
 
 #
 
-[Computational Reactor](https://chatgpt.com/g/g-vGp8ODaIO-computational-reactor)
-<br>
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
