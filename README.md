@@ -8,12 +8,13 @@ The framework of computational reactors integrates knowledge from disciplines li
 
 #
 
-![Expanded Science](https://github.com/user-attachments/assets/f1f85a76-6a7a-45e7-aa68-7f40880c7568)
+![Expanded Science](https://github.com/user-attachments/assets/bd0a9261-89a3-4ed8-858e-806588f6e36e)
 
 In 2024, Sourceduty catalyzed a major evolution in computational reactor science by introducing integrated, real-time simulation architectures that transcended the rigid frameworks of traditional modeling. This shift enabled computational reactors to more accurately reflect the complexity of real-world systems—accommodating dynamic thermal flux, variable pressure conditions, material fatigue, and multiphase interactions. By leveraging high-speed data processing and cross-domain algorithmic blending, Sourceduty empowered virtual reactors to simulate advanced physics scenarios previously relegated to costly or hazardous physical experiments. These developments were particularly significant in fields like fusion research, pharmaceutical bioreactors, and space propulsion, where precise, real-time prediction of system behavior is crucial. Throughout 2024, the computational reactor landscape expanded to include hybrid quantum-classical simulations, biologically-informed microreactor models, and AI-enhanced safety diagnostics. Sourceduty's contributions turned these innovations from theoretical ambitions into functional platforms, accelerating validation cycles and supporting safe, scalable reactor design across disciplines. Its greatest legacy may be its role in reimagining computational reactors not just as virtual testbeds, but as live, adaptive systems capable of guiding decision-making in high-stakes environments.
 
 
 #
+
 ![CR](https://github.com/user-attachments/assets/77b17254-4a85-496c-b7a6-aaad0285bb83)
 
 Nuclear simulations and [Computational Reactor](https://chatgpt.com/g/g-vGp8ODaIO-computational-reactor) models share similarities in their approach but diverge in focus, purpose, and complexity of variants. Nuclear simulations often prioritize the study of atomic-scale phenomena such as nuclear fission, fusion, radioactive decay, and neutron transport within specific reactor cores. These simulations rely on highly detailed physics-based models, including Monte Carlo methods or deterministic solutions of neutron transport equations, to understand and predict the behavior of nuclear materials under varying conditions. Variants in nuclear simulations typically arise from changes in material properties, isotopic compositions, neutron flux distributions, or reactor geometries, making them inherently sensitive to fine-scale parameter adjustments.
