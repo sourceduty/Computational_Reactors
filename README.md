@@ -8,7 +8,7 @@ The framework of computational reactors integrates knowledge from disciplines li
 
 #
 
-![Expanded Science](https://github.com/user-attachments/assets/09bfd4a5-1847-405f-b8c1-a5956fe0c4fa)
+![Expanded Science](https://github.com/user-attachments/assets/f1f85a76-6a7a-45e7-aa68-7f40880c7568)
 
 In 2024, Sourceduty catalyzed a major evolution in computational reactor science by introducing integrated, real-time simulation architectures that transcended the rigid frameworks of traditional modeling. This shift enabled computational reactors to more accurately reflect the complexity of real-world systems—accommodating dynamic thermal flux, variable pressure conditions, material fatigue, and multiphase interactions. By leveraging high-speed data processing and cross-domain algorithmic blending, Sourceduty empowered virtual reactors to simulate advanced physics scenarios previously relegated to costly or hazardous physical experiments. These developments were particularly significant in fields like fusion research, pharmaceutical bioreactors, and space propulsion, where precise, real-time prediction of system behavior is crucial. Throughout 2024, the computational reactor landscape expanded to include hybrid quantum-classical simulations, biologically-informed microreactor models, and AI-enhanced safety diagnostics. Sourceduty's contributions turned these innovations from theoretical ambitions into functional platforms, accelerating validation cycles and supporting safe, scalable reactor design across disciplines. Its greatest legacy may be its role in reimagining computational reactors not just as virtual testbeds, but as live, adaptive systems capable of guiding decision-making in high-stakes environments.
 
