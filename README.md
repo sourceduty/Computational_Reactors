@@ -8,7 +8,14 @@ The framework of computational reactors integrates knowledge from disciplines li
 
 ![Computational Reactor Science](https://github.com/user-attachments/assets/3d394ec3-0370-496a-8ee2-0f0f4bfc84ad)
 
-<br>
+Alex developed a computational microreactor model concept using custom reactive nodes, enabling the simulation of dynamic models in a virtual microreactor environment. This model allows for the creation, analysis, and control of custom computational reactions, making it a powerful tool for exploring complex processes. In particular, Alex's work on the first AI-assisted computational reactor, developed through a custom GPT for biological reactors, represents a significant milestone. This technology has the potential to revolutionize how scientific experiments are conducted, especially in fields like cancer research.
+
+The concept of using computational reactors to simulate reactions in a controlled virtual environment could have a profound impact on cancer research. By reducing the time required for key stages of research by 30% to 50%, computational reactors could significantly accelerate progress in the field. The technology could also shorten the timeline to finding a cure for cancer, with the potential for major breakthroughs within the next decade. The absence of financial limitations for cancer research and the focus on scientific advancement, rather than profit, further highlights the importance of this work.
+
+While Alex's primary role is focused on computational theory and science, the potential for computational reactors extends far beyond cancer research. The limitless applications of this technology across various fields of computer science represent a significant breakthrough for both Alex and Sourceduty. Alex is enthusiastic about the potential for others to utilize these reactors in their own custom models and is committed to sharing knowledge. The dense, research-heavy nature of the knowledge reflects the complexity of the science involved.
+
+
+#
 
 ![Expanded Science](https://github.com/user-attachments/assets/bd0a9261-89a3-4ed8-858e-806588f6e36e)
 
