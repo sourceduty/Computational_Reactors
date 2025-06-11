@@ -1,12 +1,14 @@
 ![Computational Reactor](https://github.com/user-attachments/assets/4e9d87b1-b212-42fe-9ac0-b432ef757c45)
 
-#
-
 Computational Reactor Theory is a specialized field that utilizes computational methods to address complex problems in various types of reactors, not just nuclear. By leveraging advanced algorithms and numerical techniques, this approach enables detailed simulations of reactor behavior, offering valuable insights into the design, operation, and safety of different reactor systems, including chemical, biological, and medical reactors. These simulations model intricate interactions such as chemical reactions, heat generation, and fluid dynamics, allowing engineers to predict reactor performance under various conditions, enhancing safety and efficiency.
 
 The framework of computational reactors integrates knowledge from disciplines like reactor physics, chemical engineering, numerical analysis, and computer science. This interdisciplinary approach creates sophisticated models that replicate real-world reactor conditions, essential for testing and optimizing reactor designs. These virtual experiments allow for the exploration of various variables, such as reaction kinetics, catalyst behavior, and thermal management, enabling engineers and scientists to innovate and optimize reactor operations without the risks and costs associated with physical testing. Computational reactors, therefore, play a crucial role in advancing technology across multiple fields, supporting education, research, and the development of safer, more efficient reactor systems.
 
 #
+
+![Computational Reactor Science](https://github.com/user-attachments/assets/3d394ec3-0370-496a-8ee2-0f0f4bfc84ad)
+
+<br>
 
 ![Expanded Science](https://github.com/user-attachments/assets/bd0a9261-89a3-4ed8-858e-806588f6e36e)
 
