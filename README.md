@@ -1,4 +1,4 @@
-![Nuke](https://github.com/user-attachments/assets/20c45bec-f18d-442c-a94d-8f2108c748ce)
+![Math Power](https://github.com/user-attachments/assets/2bf02a34-8f7f-4fcb-b2dc-664b6b635332)
 
 Computational Reactor Theory is a specialized field that utilizes computational methods to address complex problems in various types of reactors, not just nuclear. By leveraging advanced algorithms and numerical techniques, this approach enables detailed simulations of reactor behavior, offering valuable insights into the design, operation, and safety of different reactor systems, including chemical, biological, and medical reactors. These simulations model intricate interactions such as chemical reactions, heat generation, and fluid dynamics, allowing engineers to predict reactor performance under various conditions, enhancing safety and efficiency.
 
@@ -70,6 +70,8 @@ Sourceduty [math functions](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fb
 
 [CANDU](https://chatgpt.com/g/g-6851521302f48191982e2c85a5133d6f-candu) is a custom GPT designed to simulate the safe and efficient operation of a CANDU (Canada Deuterium Uranium) nuclear reactor. A CANDU reactor is a type of pressurized heavy-water reactor developed in Canada that uses natural uranium as fuel and heavy water (deuterium oxide) as both moderator and coolant. Unique for its ability to refuel while operating, the CANDU design enhances efficiency and reduces downtime. This GPT helps guide users through critical reactor operation steps, such as initializing systems, monitoring neutron flux, adjusting control rods, managing thermal transfer to steam generators, and ensuring safety through emergency shutdown systems. It serves as both an educational and operational assistant for understanding and simulating CANDU reactor dynamics.
 
+#
+![Nuke](https://github.com/user-attachments/assets/20c45bec-f18d-442c-a94d-8f2108c748ce)
 #
 
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
