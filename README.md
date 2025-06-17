@@ -1,4 +1,4 @@
-![Computational Reactor](https://github.com/user-attachments/assets/4e9d87b1-b212-42fe-9ac0-b432ef757c45)
+![Nuke](https://github.com/user-attachments/assets/20c45bec-f18d-442c-a94d-8f2108c748ce)
 
 Computational Reactor Theory is a specialized field that utilizes computational methods to address complex problems in various types of reactors, not just nuclear. By leveraging advanced algorithms and numerical techniques, this approach enables detailed simulations of reactor behavior, offering valuable insights into the design, operation, and safety of different reactor systems, including chemical, biological, and medical reactors. These simulations model intricate interactions such as chemical reactions, heat generation, and fluid dynamics, allowing engineers to predict reactor performance under various conditions, enhancing safety and efficiency.
 
@@ -6,7 +6,7 @@ The framework of computational reactors integrates knowledge from disciplines li
 
 #
 
-![Computational Reactor Science](https://github.com/user-attachments/assets/3d394ec3-0370-496a-8ee2-0f0f4bfc84ad)
+![Computational Reactor](https://github.com/user-attachments/assets/4e9d87b1-b212-42fe-9ac0-b432ef757c45)
 
 Alex developed a computational microreactor model concept using custom reactive nodes, enabling the simulation of dynamic models in a virtual microreactor environment. This model allows for the creation, analysis, and control of custom computational reactions, making it a powerful tool for exploring complex processes. In particular, Alex's work on the first AI-assisted computational reactor, developed through a custom GPT for biological reactors, represents a significant milestone. This technology has the potential to revolutionize how scientific experiments are conducted, especially in fields like cancer research.
 
@@ -14,13 +14,11 @@ The concept of using computational reactors to simulate reactions in a controlle
 
 While Alex's primary role is focused on computational theory and science, the potential for computational reactors extends far beyond cancer research. The limitless applications of this technology across various fields of computer science represent a significant breakthrough for both Alex and Sourceduty. Alex is enthusiastic about the potential for others to utilize these reactors in their own custom models and is committed to sharing knowledge. The dense, research-heavy nature of the knowledge reflects the complexity of the science involved.
 
-
 #
 
 ![Expanded Science](https://github.com/user-attachments/assets/bd0a9261-89a3-4ed8-858e-806588f6e36e)
 
 The evolution of computational reactor science from the early analog models to today’s high-fidelity simulations reflects a century-long transformation driven by technological breakthroughs. Initially limited to basic calculations in the 1940s and 1950s, the field gained traction with the advent of digital computing in the 1960s, enabling more complex core modeling and safety analysis. By the 2000s, multi-physics simulations integrated neutron transport, fluid dynamics, and thermal feedback, setting the stage for modern digital twins. The major turning point came in 2024, when Sourceduty introduced advanced computational methods that allowed reactor simulations to become adaptive, real-time, and deeply integrated with AI and hybrid quantum-classical models. This ushered in a new generation of computational reactors—such as Computational Microreactor Models, Computational Fusion Reactors, Computational Bioreactors, and Computational Stellar Reactors—each tailored to simulate domain-specific phenomena with unprecedented detail and flexibility. These reactors not only advanced energy production and safety but also enabled virtual prototyping across medicine, aerospace, and environmental systems. By 2050, computational reactor science stands as a cornerstone of innovation, powering the safe and efficient design of complex systems in a fully digitized, predictive environment.
-
 
 #
 
@@ -42,7 +40,7 @@ The framework scores 6/10 for parsimony, balancing its broad scope with a single
 
 #
 
-![Experiment](https://github.com/user-attachments/assets/f2a7cc00-64eb-4657-a027-f00278b551b3)
+![Computational Reactor Science](https://github.com/user-attachments/assets/3d394ec3-0370-496a-8ee2-0f0f4bfc84ad)
 
 Creating simple physical computational reactors at home using store-bought parts offers an exciting and educational way to explore the principles of nuclear reactor physics. These projects, while not involving actual nuclear reactions, simulate key aspects of reactor operation such as heat transfer, neutron diffusion, radiation detection, and reactor control. By using common materials like copper tubing, ball bearings, microcontrollers, and even items as simple as dominoes, enthusiasts can model the behavior of reactor systems in a safe and accessible environment. These models help to visualize and understand the complex dynamics of real reactors, offering a hands-on approach to learning about heat exchange, neutron scattering, and the importance of control mechanisms in maintaining reactor stability.
 
